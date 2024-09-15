@@ -26,6 +26,8 @@ Considering the research and development phases, the majority of the tested prod
 
 Out of the 267 antibacterial entries tested, a total of 146 (54.6%) showed activity against priority pathogens.
 
+****
+
 ![4](https://github.com/user-attachments/assets/480c2746-fab5-4882-b58d-8ee110253060)
 **Figure 4: Pathogen Activity against Active Priority Pathogens**
 
