@@ -22,9 +22,9 @@ This shows 383 traditional antibiotics and 283 non-traditional products in the p
 Considering the research and development phases, the majority of the tested products (46.3%) are in Phase 1 while Preregistration happened to be the phase with the least number of AMR Products (4.03%).
 
 ![3](https://github.com/user-attachments/assets/76e82a39-9418-49a8-83c7-b5b627a737d2)
-**Figure 3: The activity of antibacterials against priority pathogens**
+**Figure 3: The distribution of Active against priority pathogens**
 
-Out of the 669 antibacterial entries tested, a total of 146 (54.6%) showed activity against priority pathogens.
+Out of the 267 antibacterial entries tested, a total of 146 (54.6%) showed activity against priority pathogens.
 
 ![4](https://github.com/user-attachments/assets/480c2746-fab5-4882-b58d-8ee110253060)
 **Figure 4: Pathogen Activity against Active Priority Pathogens**
