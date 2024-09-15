@@ -1,18 +1,13 @@
  **Authors**
 **Claudia Agyeere(@Agyeere9), Gideon Danso(@Gideon\_0703), Akeemat Ayinla(@That\_Hakeemah) , Frederick Allou(@Freddie), Duong Gia Khanh(@Khanh)**
 
-**Introduction**
-
-Antimicrobial resistance has contributed to numerous fatalities globally and has emerged as a significant concern in recent years. The efficacy of most antibacterial agents against priority pathogens is diminished due to social and environmental factors, particularly stemming from the misuse of these drugs by consumers. (Health data, 2019[\[GD1\]](#_msocom_1) )
-
-
 **Activity of new antibacterial products on priority pathogens**
 
+**Introduction**
+Antimicrobial resistance has contributed to numerous fatalities globally and has emerged as a significant concern in recent years. The efficacy of most antibacterial agents against priority pathogens is diminished due to social and environmental factors, particularly stemming from consumers' misuse of these drugs. (Health data, 2019[\[GD1\]](#_msocom_1) )
+This report summary aims to analyse data from the World Health Organization about the class of antibiotics and antibiotic products and their effectiveness on their priority pathogens. (World Health Organization, 2021[\[GD2\]](#_msocom_2) )
 
 
-****
-
-****
 
 ****
 
@@ -56,3 +51,19 @@ We evaluated how well the products work against critical pathogens. “Yes” me
 
 This highlights 27 products that made it to the Preregistration phase. Indicating that “BB128”, “AB103”, and “Solithromycin” might be the only products to hit the market soon
 
+****
+
+**Discussion**
+The evaluation of pharmaceutical products against critical priority pathogens revealed varying levels of effectiveness and resistance. The assessment categorizes responses as "Yes" (susceptible), "No" (resistant), and "Possibly" (uncertain, requiring further research). Products such as Rhu-pGSN, Bacteriophage, and others achieved 100% efficacy against their targeted pathogens. Conversely, Zolifiodacin, Afabicin, and others showed mixed results with susceptibility and resistance, highlighting the need for further innovation. Other drugs like TXA709 and KBP-7072 exhibited varied outcomes ("Yes," "No," "Possibly"), suggesting possible pathogen mutations and resistance gene acquisition. Some products, including TRL1068 and QPX7728, demonstrated partial efficacy, indicating they are not entirely effective and need additional research. XNW4107 and related drugs showed "Possibly" outcomes, reflecting insufficient efficacy. These results stress the importance of continued research to improve drug effectiveness and address resistance issues.
+
+**Conclusion**
+The varied efficacy and resistance profiles of these drugs highlight the need for ongoing research to enhance their effectiveness and combat the risk of pathogen resistance.
+
+
+* * *
+**References**
+
+
+ [\[GD1\]](#_msoanchor_1)https://www.healthdata.org/research-analysis/health-risks-issues/antimicrobial-resistance-amr
+
+ [\[GD2\]](#_msoanchor_2)https://raw.githubusercontent.com/HackBio-Internship/public\_datasets/main/R/WHO\_AMR\_PRODUCTS\_DATA.tsv
