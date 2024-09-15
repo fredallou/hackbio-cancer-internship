@@ -5,13 +5,11 @@
 
 **Introduction**
 Antimicrobial resistance has contributed to numerous fatalities globally and has emerged as a significant concern in recent years. The efficacy of most antibacterial agents against priority pathogens is diminished due to social and environmental factors, particularly stemming from consumers' misuse of these drugs. (Health data, 2019[\[GD1\]](#_msocom_1) )
-This report summary aims to analyse data from the World Health Organization about the class of antibiotics and antibiotic products and their effectiveness on their priority pathogens. (World Health Organization, 2021[\[GD2\]](#_msocom_2) )
+This report aims to summarize the data from the WHO AMR pipeline analysis on some new antibacterial products and their effectiveness on priority pathogens. (World Health Organization, 2021[\[GD2\]](#_msocom_2) )
 
 
 
 ****
-
-This presentation focuses on the WHO AMR pipeline analysis. It includes information on various non- traditional and antibiotic products targeting priority pathogens
 
 ![1](https://github.com/user-attachments/assets/807a66aa-6f1e-4db2-9f4b-9b8566780e52)
 **F1: Distribution of Product Type**
