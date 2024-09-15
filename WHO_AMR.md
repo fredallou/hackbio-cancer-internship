@@ -1,3 +1,9 @@
+ **Authors**
+**Claudia Agyeere(@Agyeere9), Gideon Danso(@Gideon\_0703), Akeemat Ayinla(@That\_Hakeemah) , Frederick Allou(@Freddie), Duong Gia Khanh(@Khanh)**
+
+
+
+
 **Activity of new antibacterial products on priority pathogens**
 
 
@@ -51,12 +57,11 @@ This highlights 27 products that made it to the Preregistration phase. Indicatin
 
 
   
-  **Authors**
-
-**Claudia Agyeere(@Agyeere9), Gideon Danso(@Gideon\_0703), Akeemat Ayinla(@That\_Hakeemah) , Frederick Allou(@Freddie), Duong Gia Khanh(@Khanh)**
+ 
 
 
 
+**R code**
 
 \> #Below is the R programming codes for analysing
 
