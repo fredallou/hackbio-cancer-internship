@@ -1,7 +1,9 @@
  **Authors**
 **Claudia Agyeere(@Agyeere9), Gideon Danso(@Gideon\_0703), Akeemat Ayinla(@That\_Hakeemah) , Frederick Allou(@Freddie), Duong Gia Khanh(@Khanh)**
 
+**Introduction**
 
+Antimicrobial resistance has contributed to numerous fatalities globally and has emerged as a significant concern in recent years. The efficacy of most antibacterial agents against priority pathogens is diminished due to social and environmental factors, particularly stemming from the misuse of these drugs by consumers. (Health data, 2019[\[GD1\]](#_msocom_1) )
 
 
 **Activity of new antibacterial products on priority pathogens**
