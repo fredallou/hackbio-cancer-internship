@@ -16,10 +16,14 @@ This report aims to summarize the data from the WHO AMR pipeline analysis on som
 
 This shows 383 traditional antibiotics and 283 non-traditional products in the pipeline. While many efforts focus on improving conventional antibiotics, nearly half explore innovative approaches like bacteriophages, probiotics, and immune modulators, balancing existing treatments with new strategies.
 
+****
+
 ![2](https://github.com/user-attachments/assets/a82125d4-9ca3-436e-9950-ab016921fa6f)
 **Figure 2: Distribution of AMR Products by R\&D Phase**
 
 Considering the research and development phases, the majority of the tested products (46.3%) are in Phase 1 while Preregistration happened to be the phase with the least number of AMR Products (4.03%).
+
+****
 
 ![3](https://github.com/user-attachments/assets/76e82a39-9418-49a8-83c7-b5b627a737d2)
 **Figure 3: The distribution of Active against priority pathogens**
@@ -29,22 +33,25 @@ Out of the 267 antibacterial entries tested, a total of 146 (54.6%) showed activ
 ****
 
 ![4](https://github.com/user-attachments/assets/480c2746-fab5-4882-b58d-8ee110253060)
-**Figure 4: Pathogen Activity against Active Priority Pathogens**
+**Figure 4: Frequency of antibacterial activity against Priority Pathogens**
 
-Critical priority pathogen have the highest number of active products, indicating strong research focus. Significant activity targets Gram-positive infections like Staphylococcus aureus. However, lower product counts for pathogens such as _Helicobacter pylori_ and _Campylobacter spp_. highlight the need for increased research and development efforts in these challenging areas.
+Critical priority pathogens have the highest number of active products, indicating a strong research focus. Significant activity targets Gram-positive infections like Staphylococcus aureus. However, lower product counts for pathogens such as _Helicobacter pylori_ and _Campylobacter spp_. highlight the need for increased research and development efforts in these challenging areas.
 
+****
 
 ![5](https://github.com/user-attachments/assets/16d4cdc8-19c0-4047-9844-71d6330c4e18)
 **Figure 5: Shows a graph of the “Number of Yes for Active pathogens by Product name”**
 
-The product named Rhu-pGSN showed greatest antibacterial activity
+This effectively highlights the efficacy of different products. Rhu-pGSN showed the greatest antibacterial activity. Other products show varying levels of activity. 
 
+****
 
 ![6](https://github.com/user-attachments/assets/d306726c-3689-4cdd-a04b-bf8693a8547b)
 **Figure 6: Product name against active priority pathogens**
 
 We evaluated how well the products work against critical pathogens. “Yes” means the pathogen is susceptible, “No” means it’s resistant, and “Possibly” indicates the need for more research to improve effectiveness.
 
+****
 
 ![7](https://github.com/user-attachments/assets/82d64e95-0e32-46a2-9193-1bfc2d1c5c6b)
 **Figure 7: Product distribution across R\&D phases**
