@@ -1,6 +1,4 @@
-**R code**
-
-\> #Below is the R programming codes for analysing
+**\> #Below is the R programming codes for analysis**
 
 \>
 
@@ -8,9 +6,9 @@
 
 title: "Untitled"
 
-authors: "Claudia Agyeere", "Gideon Danso", "Frederick Allou", "Akeemat Ayinla", "Duong Gia Khanh"
+**authors: "Claudia Agyeere", "Gideon Danso", "Frederick Allou", "Akeemat Ayinla", "Duong Gia Khanh"**
 
-date: "2024-09-14"
+**date: "2024-09-14"**
 
 \---
 
@@ -677,4 +675,3 @@ ggplot(amr\_data\_filtered, aes(x = reorder(Product.name, Product.name, length),
   coord\_flip() 
 
 \`\`\`
-
